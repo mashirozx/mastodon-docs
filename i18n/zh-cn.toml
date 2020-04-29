@@ -2,7 +2,7 @@
 other = "改进此页面"
 
 [lastUpdated]
-other = "最后更新"
+other = "最后更新于"
 
 [lastUpdatedDateFormat]
 other = "{{ .Format \"January 2, 2006\" }}"

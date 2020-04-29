@@ -19,7 +19,7 @@ menu:
 | 中心化等级 | 例子 |
 | :--- | :--- |
 | 中心化 | Twitter, Facebook, Instagram |
-| 联邦式 | Email, XMPP, phone networks, physical mail |
+| 联邦式 | 电子邮件, XMPP, 电话网络, 邮政服务 |
 | 分布式 | BitTorrent, IPFS, Scuttlebutt |
 
 和传统网站一样，长毛象网站可以独立运作。人们可以在上面注册、发布消息、上传图片、互相聊天。但与传统网站*不同*的是，长毛象网站之间可以互动，让跨站用户互相交流，就好像只要你知道他们的电子邮件地址，你就可以从你的Gmail帐户发送电子邮件给使用Outlook、Fastmail、Protonmail或任何其他电子邮件供应商的用户。在长毛象里，**你可以对任何人在任何网站上的地址进行“@”或私信**。
@@ -45,7 +45,7 @@ menu:
 
 ### 自由地选择服务提供者和用户政策{#choice}
 
-因为长毛象是只是一个可以用于驱动任何网站的一款软件，长毛象的用户们可以自由地从现有的长毛象网站中选择一个入驻，或者如果用户愿意的话，也可以创建自己的长毛象网站。长毛象官方在 joinmastodon.org 上有一个列表，其中推荐了一系列长毛象站点，该列表可按类别与语言进行分类。一些网站可能有特定的管理政策，比如要求使用特定的标签覆盖可能敏感的内容，另一些网站的管理政策可能相对更宽松，但列表中列出所有的网站都需要同意采用《长毛象服务器公约》，这意味着他们承诺积极处理并反对仇恨言论、采取每日备份、至少有一个应急管理员、并在关站前提供至少3个月预先通知。
+因为长毛象是只是一个可以用于驱动任何网站的一款软件，长毛象的用户们可以自由地从现有的长毛象网站中选择一个入驻，或者如果用户愿意的话，也可以创建自己的长毛象网站。长毛象官方在 joinmastodon.org 上有一个列表，其中推荐了一系列长毛象站点，该列表可按类别与语言进行分类。一些网站可能有特定的管理政策，比如要求使用特定的标签覆盖可能敏感的内容，另一些网站的管理政策可能相对更宽松，但列表中列出所有的网站都需要同意采用《[长毛象服务器公约](https://joinmastodon.org/covenant)》，这意味着他们承诺积极处理并反对仇恨言论、采取每日备份、至少有一个应急管理员、并在关站前提供至少3个月预先通知。
 
 > 维护所有成员都感到安全的社区并不容易。长毛象提供了许多基本的框架和工具，并将权力从一个商业实体转移到社区本身。
 >
@@ -69,7 +69,7 @@ menu:
 
 ### 跨平台互联{#interoperability}
 
-让我们想象一下，如果Twitter和Instagram是使用相同协议的联合服务，那么你将可以从你的Twitter账户关注一个Instagram用户，并评论他们的照片。有了长毛象，*你可以与其他任何与之兼容的网站交流，即使那些网站不是在长毛象上运行*。这些网站的交互所需要的是支持ActivityPub协议的软件。要了解更多有关与长毛象互联所需的技术规范，请参阅[ActivityPub](https://docs.joinmastodon.org/spec/activitypub.md)、[WebFinger](https://docs.joinmastodon.org/spec/webfinger.md)和[Security](https://docs.joinmastodon.org/spec/security.md]。要了解更多关于ActivityPub的用处，请参阅[《为什么ActivityPub是未来》](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/)。
+让我们想象一下，如果Twitter和Instagram是使用相同协议的联合服务，那么你将可以从你的Twitter账户关注一个Instagram用户，并评论他们的照片。有了长毛象，*你可以与其他任何与之兼容的网站交流，即使那些网站不是在长毛象上运行*。这些网站的交互所需要的是支持ActivityPub协议的软件。要了解更多有关与长毛象互联所需的技术规范，请参阅[ActivityPub](https://docs.joinmastodon.org/spec/activitypub.md)、[WebFinger](https://docs.joinmastodon.org/spec/webfinger.md)和[Security](https://docs.joinmastodon.org/spec/security.md)。要了解更多关于ActivityPub的用处，请参阅[《为什么ActivityPub是未来》](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/)。
 
 > 所有这些平台都是不同的，它们关注不同的需求。然而，它们从根本上都是一样的：一些人订阅另一些人的帖子。因此可以说，它们都是兼容的。
 >

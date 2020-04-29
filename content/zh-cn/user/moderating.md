@@ -54,7 +54,7 @@ menu:
 
 ### 静音 {#mute}
 
-{{< figure src="/assets/image%20%2852%29.png" caption="静音帐户示例" >}}
+{{< figure src="/assets/image%20%2852%29.png" caption="图为被禁音的账户" >}}
 
 静音时，你可以选择是否将通知静音。静音用户，而不静音通知时，会将用户从你的视野中隐藏。
 
@@ -69,7 +69,7 @@ menu:
 
 ### 屏蔽 {#block}
 
-{{< figure src="/assets/image%20%2836%29.png" caption="Sample of blocked accounts." >}}
+{{< figure src="/assets/image%20%2836%29.png" caption="图为被屏蔽的账户" >}}
 
 屏蔽会将用户从你的视野中隐藏。
 
@@ -101,7 +101,7 @@ menu:
 
 ## 向监察员举报有问题的内容 {#report}
 
-{{< figure src="/assets/image%20%283%29.png" caption="举报模式允许选择被举报嘟文、添加注释和转发举报。" >}}
+{{< figure src="/assets/image%20%283%29.png" caption="举报模式允许选择被举报嘟文、添加注释和转发举报" >}}
 
 如果你看到有违反网站规则的嘟文或用户，你可以向网站管理员举报该用户。点击用户下拉菜单或嘟文的下拉菜单上的“举报”选项将打开举报模式。在这里，你可以（并且应该）添加一个关于你为什么要举报这个帐号的注释。你可以附加某些有问题的嘟文，以了解你为什么要举报该账号，如果他们的行为违反了远程网站的规则，你还可以选择将举报转发到他们网站的管理员。
 
