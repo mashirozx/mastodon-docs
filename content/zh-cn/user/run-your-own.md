@@ -1,5 +1,5 @@
 ---
-title: 运行自己的服务器
+title: 运行自己的服务器。
 description:
 menu:
   docs:

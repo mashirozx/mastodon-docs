@@ -1,6 +1,6 @@
 ---
 title: 设置你的偏好
-description: 按你喜欢的方式来定制偏好
+description: 按你喜欢的方式来定制偏好。
 menu:
   docs:
     weight: 70

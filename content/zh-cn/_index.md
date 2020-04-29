@@ -1,6 +1,6 @@
 ---
 title: 什么是长毛象？
-description: 欢迎来到长毛象的中文用户使用手册！
+description: 欢迎来到长毛象的中文用户使用手册！（非官方翻译）
 menu:
   docs:
     weight: -99

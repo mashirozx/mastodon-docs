@@ -1,6 +1,6 @@
 ---
 title: 推广自己和他人
-description: 推广自己的话题标签、个人资料和嘟文
+description: 推广自己的话题标签、个人资料和嘟文。
 menu:
   docs:
     weight: 60
