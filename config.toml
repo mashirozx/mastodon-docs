@@ -1,0 +1,22 @@
+baseURL = "https://mastodoncn.netlify.app/"
+languageCode = "en-us"
+defaultContentLanguage = "zh-cn" # Default language to use
+title = "长毛象中文用户使用文档"
+pygmentsCodeFences = true
+pygmentsStyle = "dracula"
+metaDataFormat = "yaml"
+paginate = 100
+enableGitInfo = true
+
+[menu]
+  [[menu.docs]]
+    name = "使用长毛象"
+    weight = 10
+    identifier = "user"
+    url = "/user/"
+
+[languages]
+  [languages.zh-cn]
+    contentDir = "content/zh-cn"
+    languageName = "Simplified Chinese"
+    weight = -99
